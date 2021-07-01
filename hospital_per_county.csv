@@ -1,4 +1,4 @@
-county,hospital_per_county_count
+,county
 Nairobi,942
 Kiambu,506
 Meru,461
@@ -35,12 +35,12 @@ Nyamira,140
 Tharaka_Nithi,133
 Elgeyo_Marakwet,133
 West_Pokot,132
-Kwale,124
 Laikipia,124
+Kwale,124
 Busia,118
 Marsabit,115
-Samburu,97
 Vihiga,97
+Samburu,97
 Taita_Taveta,92
 Mandera,89
 Tana_River,65

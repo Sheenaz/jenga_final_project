@@ -1,4 +1,4 @@
-county,pharmacy_per_county_count
+,county
 Kitui,290
 Makueni,210
 Turkana,188
@@ -21,9 +21,9 @@ West Pokot,125
 Bungoma,124
 Bomet,123
 Kwale,111
-Embu,110
 Siaya,110
 Narok,110
+Embu,110
 Kajiado,94
 Elgeyo Marakwet,93
 Tharaka Nithi,90
@@ -35,12 +35,12 @@ Wajir,73
 Busia,70
 Nyamira,69
 Marsabit,67
-Samburu,66
 Nyandarua,66
+Samburu,66
 Garissa,63
 Trans Nzoia,59
-Tana River,58
 Mandera,58
+Tana River,58
 Taita Taveta,48
 Vihiga,48
 Mombasa,46
